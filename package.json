@@ -1,0 +1,17 @@
+{
+  "name": "marsxfly",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "hyperfy-tools dev",
+    "build": "hyperfy-tools build",
+    "start": "hyperfy-tools start",
+    "login": "hyperfy-tools login",
+    "deploy": "hyperfy-tools publish",
+    "unpublish": "hyperfy-tools unpublish"
+  },
+  "devDependencies": {
+    "hyperfy-tools": "1.0.13"
+  },
+  "dependencies": {}
+}
